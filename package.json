@@ -1,0 +1,28 @@
+{
+  "name": "@it22/tda-utils",
+  "version": "1.0.1",
+  "description": "tda utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kashif750/tda-utils.git"
+  },
+  "keywords": [
+    "tda",
+    "tda-utils",
+    "tda utilities",
+    "it22 utils",
+    "it22 utilities",
+    "it22 functions",
+    "tda functions"
+  ],
+  "author": "it22",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kashif750/tda-utils/issues"
+  },
+  "homepage": "https://github.com/kashif750/tda-utils#readme"
+}
