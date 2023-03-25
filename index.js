@@ -11,7 +11,7 @@ import reCalculateTax from "./_reCalculateTax";
 import slugify from "./_slugify";
 import titleEllipse from "./_titleEllipse";
 import unSlugify from "./_unslugify";
-import wait from "./wait";
+import wait from "./_wait";
 
 module.exports = {
 	capitalize,
