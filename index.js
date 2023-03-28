@@ -12,6 +12,8 @@ import slugify from "./_slugify";
 import titleEllipse from "./_titleEllipse";
 import unSlugify from "./_unslugify";
 import wait from "./_wait";
+import round from "./_round";
+import sumTotal from "./_sumTotal";
 
 module.exports = {
 	capitalize,
@@ -28,4 +30,6 @@ module.exports = {
 	titleEllipse,
 	unSlugify,
 	wait,
+	round,
+	sumTotal,
 };
